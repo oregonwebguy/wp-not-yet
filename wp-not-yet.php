@@ -4,7 +4,7 @@
  * Plugin Name:       Not Yet
  * Plugin URI:        https://harnessyourwebsite.com/
  * Description:       Simple coming soon plugin for WordPress.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Harness Media LLC
  * Author URI:        https://harnessyourwebsite.com/
  * License:           GPL-2.0+
@@ -31,4 +31,5 @@ function notyet_coming_soon() {
 
 /**
  * 1.0.0	2022-06-12	Initial Release: Simple redirect of all pages to coming-soon page for users that are not logged in.
+ * 1.0.1	2022-06-14	Change root folder name and primary PHP file.
  */
